@@ -56,6 +56,6 @@ def protein_motif(IDS_url):
     
     return seq_with_positions
 
-path = "C:/Users/giera/Downloads/rosalind_mprt(1).txt"
+path = "C:/users/giera/onedrive/dokumenty/python_scripts/rosalind_mprt.txt"
 result = protein_motif(path)
     
