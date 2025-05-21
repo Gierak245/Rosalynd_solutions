@@ -2,6 +2,13 @@
 
 import re  # for regex
 import requests  # for API
+import os
+
+# Path to the directory where this script is located
+script_dir = os.path.dirname(os.path.abspath(__file__))
+
+# File in the same folder as the script
+file_path = os.path.join(script_dir, 'MPRT_input.txt')
 
 # [XY] means "either X or Y" and {X} means "any amino acid except X." 
 # For example, the N-glycosylation motif is written as N{P}[ST]{P}.
@@ -125,6 +132,5 @@ def protein_motif(IDS_url):
     
     return seq_with_positions
 
-path = "C:/Users/giera/Downloads/rosalind_mprt(1).txt"
-result = protein_motif(path)
+result = protein_motif(file_path)
     
