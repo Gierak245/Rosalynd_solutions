@@ -1,7 +1,7 @@
 # Problem: MPRT (Finding a Protein Motif )
 
 ## Description
-Finding a protein motif N{P}[ST]{P}.
+Finding a protein motif N{P}[ST]{P} in specific protein sequences.
 
 ## Tok myślenia
 - Znalezienie sposobu na pobranie sekwencji fasta białek
