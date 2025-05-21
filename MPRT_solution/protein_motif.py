@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Apr 10 19:34:40 2025
-
-@author: giera
-"""
-
 # common protein motif
 
 import re  # for regex
