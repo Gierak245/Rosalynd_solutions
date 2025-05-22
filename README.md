@@ -4,6 +4,8 @@
 
 > **Brief:** This repository contains my step-by-step solutions to the problems on [Rosalind](http://rosalind.info), complete with explanations, example inputs, and notes on challenges and learnings.
 
+**DISCLAMER:** I’ll be adding other tasks as soon as their clarity and quality reach the standards I aim for in this repository.
+
 ---
 
 ## 📚 Table of Contents
