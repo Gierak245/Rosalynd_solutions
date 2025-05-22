@@ -10,8 +10,8 @@
 
 1. [Introduction](#-introduction)
 2. [Repository Structure](#-repository-structure)
-3. [Clone this repository](#-Clone this repository)
-4. [Task List](#-task List)
+3. [Clone this repository](#-clone-this-repository)
+4. [Task List](#-task-list)
 5. [Template for Each Problem](#-template-for-each-problem)
 6. [Tech Stack](#-tech-stack)
 7. [Contributing](#-contributing)
